@@ -1,0 +1,57 @@
+/* Règles */
+
+header {
+	width: 100%;
+	left: 0%;
+	top: 0%;
+	position: absolute;
+	margin: 0px;
+	background: rgba(127, 127, 127, 0);
+}
+
+header * button {
+	transition: 0.25s;
+	border: 0px;
+	padding: 18px;
+}
+
+header * button:hover {
+	
+}
+
+body {
+	margin: 0px;
+	background: rgba(127, 127, 127, 0);
+}
+
+.floatleft {
+	float: left;
+}
+
+.floatright {
+	float: right;
+}
+
+#index {
+	background: rgba(255, 255, 255, 0);
+	color: rgba(150, 150, 255, 1);
+}
+
+#index:hover {
+	background: rgba(150, 150, 255, 1);
+	color: rgba(255, 255, 255, 1);
+}
+
+#shop {
+	background: rgba(255, 255, 255, 0);
+	color: rgba(255, 10, 10, 1);
+}
+
+#shop:hover {
+	background: rgba(255, 10, 10, 1);
+	color: rgba(255, 255, 255, 1);
+}
+
+#shop {
+	
+}
